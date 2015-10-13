@@ -21,9 +21,9 @@ color:
     - '#fc7b15'
     - '#263d45'
   brandStrength: 0.875
-  lightness: 0.75
-  saturation: 0.75
-  rhythmicContrast: 0.5
+  lightness: 0.9375
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose:
   - name: follow
     item: null
