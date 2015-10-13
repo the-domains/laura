@@ -1,6 +1,6 @@
 name: Laura
 favicon: null
-layout_spectrum: 0.89024
+layout_spectrum: 0.88488
 typography_spectrum: 0.48959
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#263d45'
   brandStrength: 0.5
   lightness: 0.8125
-  saturation: 0.625
+  saturation: 0.5625
   rhythmicContrast: 0.5
 purpose:
   - name: follow
