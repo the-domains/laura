@@ -23,7 +23,7 @@ color:
     - '#263d45'
   brandStrength: 0.5
   lightness: 0.9375
-  saturation: 0.875
+  saturation: 0.625
   rhythmicContrast: 0.75
 purpose:
   - name: follow
