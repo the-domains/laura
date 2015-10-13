@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[Laura]]></title>
         <description><![CDATA[Laura]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/laura/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Oct 2015 21:11:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 13 Oct 2015 21:35:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/laura/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Distractions]]></title>
+            <description><![CDATA[<article><h1>Distractions</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f13033fb-255a-45ea-91cc-8442b4138907.jpg"></article>]]></description>
+            <link>https://thegrid.ai/laura/distractions/index.html</link>
+            <guid isPermaLink="false">8e7481c2-b868-4547-9ce1-8af6a1ca732c</guid>
+            <pubDate>Tue, 13 Oct 2015 21:34:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Beginnings]]></title>
             <description><![CDATA[<article><h1>New Beginnings</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdeee03c-122c-4113-ae97-29df3751489b.jpg"></article>]]></description>
-            <link>undefinednew-beginnings/index.html</link>
+            <link>https://thegrid.ai/laura/new-beginnings/index.html</link>
             <guid isPermaLink="false">d17eac3c-c284-4122-8717-090e9b2ab2a4</guid>
             <pubDate>Tue, 13 Oct 2015 21:11:34 GMT</pubDate>
         </item>
