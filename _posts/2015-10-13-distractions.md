@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "maybe they aren't so bad after all"
-datePublished: '2015-10-13T23:38:01.089Z'
-dateModified: '2015-10-13T23:37:56.172Z'
+datePublished: '2015-10-14T00:14:15.382Z'
+dateModified: '2015-10-14T00:13:59.486Z'
 title: Distractions
 sourcePath: _posts/2015-10-13-distractions.md
 published: true
