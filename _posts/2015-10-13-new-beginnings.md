@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-14T00:14:21.392Z'
-dateModified: '2015-10-14T00:14:10.140Z'
+datePublished: '2015-10-14T00:21:26.282Z'
+dateModified: '2015-10-14T00:21:21.337Z'
 title: New Beginnings
 sourcePath: _posts/2015-10-13-new-beginnings.md
 published: true
@@ -27,6 +27,6 @@ _type: Article
 
 I'm so drawn to fresh starts. I'm reminded of Lamentations 3:23: 
 > 
-> Great is his faithfulness;his mercies begin afresh each morning.
+> Great is his faithfulness; his mercies begin afresh each morning.
 
 I don't believe that God's mercies are new only in the morning. I believe that they can be new each minute. If I take a moment to really focus on Him, take a deep breath, and allow Him (again) to have control in my life, it all starts over from there. There is always hope.
