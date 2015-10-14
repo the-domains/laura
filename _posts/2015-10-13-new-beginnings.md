@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-13T21:11:34.568Z'
-dateModified: '2015-10-13T21:11:23.658Z'
+datePublished: '2015-10-14T00:14:21.392Z'
+dateModified: '2015-10-14T00:14:10.140Z'
 title: New Beginnings
+sourcePath: _posts/2015-10-13-new-beginnings.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-13-new-beginnings.md
-published: true
 url: new-beginnings/index.html
 _type: Article
 
