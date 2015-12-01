@@ -6,11 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-14T00:21:26.282Z'
-dateModified: '2015-10-14T00:21:21.337Z'
-title: New Beginnings
+datePublished: '2015-12-01T02:49:51.465Z'
+dateModified: '2015-12-01T02:49:47.308Z'
+title: NEW BEGINNINGS
 sourcePath: _posts/2015-10-13-new-beginnings.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -23,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdeee03c-122c-4113-ae97-29df3751489b.jpg)
 
-# New Beginnings
+# NEW BEGINNINGS
 
 I'm so drawn to fresh starts. I'm reminded of Lamentations 3:23: 
 > 
