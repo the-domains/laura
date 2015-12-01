@@ -6,11 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: "maybe they aren't so bad after all"
-datePublished: '2015-10-14T00:14:15.382Z'
-dateModified: '2015-10-14T00:13:59.486Z'
-title: Distractions
+datePublished: '2015-12-01T02:49:18.287Z'
+dateModified: '2015-12-01T02:49:04.159Z'
+title: DISTRACTIONS
 sourcePath: _posts/2015-10-13-distractions.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -21,7 +22,7 @@ url: distractions/index.html
 _type: Article
 
 ---
-# Distractions
+# DISTRACTIONS
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79095b6c-93c4-405a-8f0e-3428f263c728.jpg)
 
 With so much going on in my life, I have no business picking up new hobbies.  I guess I'm just somewhat of a rebel. So much of a rebel that I've picked up knitting this week.  Bad-ass, I know. Will I drop it in a week like a bad habit?  It's definitely a possibility, especially once it dawns on me that I have currently much more important things to do that are time-sensitive.  I do believe in self-care and I find knitting to be pretty relaxing so far.  Watching Fed Up or Grey's Anatomy while crafting something by hand in bed is pretty awesome.
